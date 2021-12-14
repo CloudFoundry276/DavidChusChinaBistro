@@ -5,8 +5,11 @@ body {
     font-family: 'Oxygen', sans-serif;
 }
 
+
 /* HEADER */
-#header-nav {
+
+
+/*#header-nav {
     background-color: #f6b319;
     border-radius: 0;
     border: 0;
@@ -49,3 +52,4 @@ body {
 .navbar-brand p span {
     vertical-align: middle;
 }
+*/
